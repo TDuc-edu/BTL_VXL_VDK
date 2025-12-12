@@ -1,3 +1,10 @@
+/*
+ * server_flag_processing.h
+ *
+ *  Created on: Dec 12, 2025
+ *      Author: TD
+ */
+
 #ifndef _SERVER_FLAG_PROCESSING_H
 #define _SERVER_FLAG_PROCESSING_H
 
